@@ -1,0 +1,18 @@
+C:\Users\Tival\Downloads\obj\Debug\net8.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tival\Downloads\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Tival\Downloads\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\Tival\Downloads\obj\Debug\net8.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tival\OneDrive\Pictures\New folder\bin\Debug\net8.0\StudentManagementSystem.exe
+C:\Users\Tival\OneDrive\Pictures\New folder\bin\Debug\net8.0\StudentManagementSystem.deps.json
+C:\Users\Tival\OneDrive\Pictures\New folder\bin\Debug\net8.0\StudentManagementSystem.runtimeconfig.json
+C:\Users\Tival\OneDrive\Pictures\New folder\bin\Debug\net8.0\StudentManagementSystem.dll
+C:\Users\Tival\OneDrive\Pictures\New folder\bin\Debug\net8.0\StudentManagementSystem.pdb
+C:\Users\Tival\OneDrive\Pictures\New folder\obj\Debug\net8.0\StudentManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tival\OneDrive\Pictures\New folder\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Tival\OneDrive\Pictures\New folder\obj\Debug\net8.0\StudentManagementSystem.AssemblyInfo.cs
+C:\Users\Tival\OneDrive\Pictures\New folder\obj\Debug\net8.0\StudentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tival\OneDrive\Pictures\New folder\obj\Debug\net8.0\StudentManagementSystem.dll
+C:\Users\Tival\OneDrive\Pictures\New folder\obj\Debug\net8.0\refint\StudentManagementSystem.dll
+C:\Users\Tival\OneDrive\Pictures\New folder\obj\Debug\net8.0\StudentManagementSystem.pdb
+C:\Users\Tival\OneDrive\Pictures\New folder\obj\Debug\net8.0\StudentManagementSystem.genruntimeconfig.cache
+C:\Users\Tival\OneDrive\Pictures\New folder\obj\Debug\net8.0\ref\StudentManagementSystem.dll
